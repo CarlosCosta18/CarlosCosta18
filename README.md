@@ -18,7 +18,7 @@
 
 ⚡ Fun fact *You know that Jesus loves you?*
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:carloscosta1807@gmail.com">
@@ -27,12 +27,13 @@
   <a href="https://www.linkedin.com/in/carlos-da-costa-5a0147260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <!-- sqlite, safari, google-chrome are other good icon options -->
   <a href="https://github.com/CarlosCosta18?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -47,8 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CarlosCosta18/CarlosCosta18/output/github-contribution-grid-snake.svg" />  
-  <br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosCosta18&show_icons=true&theme=radical" alt="Cadu GitHub stats"/>
 </div>
 
 <hr/>
@@ -65,8 +65,5 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
 
 <br/>
